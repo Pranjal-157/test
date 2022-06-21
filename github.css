@@ -1,0 +1,20 @@
+nav{
+    height: 100px;
+    box-shadow: 2px 4px 5px grey;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px;
+}
+.nav-logo img{
+    width: 30%;
+}
+.nav-links{
+
+}
+.search-bar{
+
+}
+.nav-buttons{
+
+}
